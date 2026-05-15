@@ -9,6 +9,8 @@ A lightweight, browser-based **Point of Sale (POS) system** built for a local ph
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![Apache](https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white)](https://httpd.apache.org/)
 
+![Homepage](screenshots/billing.png)
+
 </div>
 
 ---
@@ -28,6 +30,16 @@ A lightweight, browser-based **Point of Sale (POS) system** built for a local ph
 ## Overview
 
 This is a web-based **Point of Sale (POS) system** designed for a local pharmacy. The cashier interface allows staff to quickly search products, build a transaction cart, process cash payments, and print acknowledgement receipts. A separate admin panel enables authorized users to manage the product catalog, view sales history, generate reports, and update login credentials — all accessible through a standard web browser with no additional software required beyond XAMPP.
+
+---
+
+## Screenshots
+
+### Billing /POS Screen
+![Billing Screen](screenshots/billing.png)
+
+### Admin Panel
+![Admin Panel](screenshots/admin.png)
 
 ---
 
