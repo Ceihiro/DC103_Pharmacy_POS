@@ -35,7 +35,7 @@ This is a web-based **Point of Sale (POS) system** designed for a local pharmacy
 
 ## Screenshots
 
-### POS Screen
+### Billing / POS Screen
 ![Billing Screen](screenshots/pos.png)
 
 ### Admin Panel
