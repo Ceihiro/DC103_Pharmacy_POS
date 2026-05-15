@@ -9,7 +9,7 @@ A lightweight, browser-based **Point of Sale (POS) system** built for a local ph
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![Apache](https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white)](https://httpd.apache.org/)
 
-![Homepage](screenshots/billing.png)
+![Homepage](screenshots/pos.png)
 
 </div>
 
@@ -35,8 +35,8 @@ This is a web-based **Point of Sale (POS) system** designed for a local pharmacy
 
 ## Screenshots
 
-### Billing /POS Screen
-![Billing Screen](screenshots/billing.png)
+### POS Screen
+![Billing Screen](screenshots/pos.png)
 
 ### Admin Panel
 ![Admin Panel](screenshots/admin.png)
