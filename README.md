@@ -136,10 +136,10 @@ pharmacy-billing/
 
 Special thanks to the staff for their cooperation and feedback throughout the development of this system.
 
-> System Analysis and Design · May 2026
+> Built as part of DC103 - System Analysis and Design · BSCS 2B · Group 6 · May 2026
 
 ---
 
 ## License
 
-All rights reserved. This project is submitted as an academic requirement. Do not reuse, redistribute, or claim this work as your own without explicit permission from the original authors.
+All rights reserved. Do not reuse, redistribute, or claim this work as your own without permission from the original authors.
