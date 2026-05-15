@@ -45,7 +45,7 @@ This is a web-based **Point of Sale (POS) system** designed for a local pharmacy
 
 ## Features
 
-**Cashier / POS Interface**
+**POS Interface**
 - Real-time product search by name
 - Add items to cart with automatic subtotal computation
 - Cash tendered and change calculation
